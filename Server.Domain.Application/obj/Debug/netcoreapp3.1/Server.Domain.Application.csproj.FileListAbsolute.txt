@@ -1,0 +1,13 @@
+D:\ProgrammingHW\Graduate work\Server\Server.Domain.Application\bin\Debug\netcoreapp3.1\Server.Domain.Application.deps.json
+D:\ProgrammingHW\Graduate work\Server\Server.Domain.Application\bin\Debug\netcoreapp3.1\Server.Domain.Application.dll
+D:\ProgrammingHW\Graduate work\Server\Server.Domain.Application\bin\Debug\netcoreapp3.1\Server.Domain.Application.pdb
+D:\ProgrammingHW\Graduate work\Server\Server.Domain.Application\obj\Debug\netcoreapp3.1\Server.Domain.Application.csproj.AssemblyReference.cache
+D:\ProgrammingHW\Graduate work\Server\Server.Domain.Application\obj\Debug\netcoreapp3.1\Server.Domain.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingHW\Graduate work\Server\Server.Domain.Application\obj\Debug\netcoreapp3.1\Server.Domain.Application.AssemblyInfoInputs.cache
+D:\ProgrammingHW\Graduate work\Server\Server.Domain.Application\obj\Debug\netcoreapp3.1\Server.Domain.Application.AssemblyInfo.cs
+D:\ProgrammingHW\Graduate work\Server\Server.Domain.Application\obj\Debug\netcoreapp3.1\Server.Domain.Application.csproj.CoreCompileInputs.cache
+D:\ProgrammingHW\Graduate work\Server\Server.Domain.Application\obj\Debug\netcoreapp3.1\Server.Domain.Application.dll
+D:\ProgrammingHW\Graduate work\Server\Server.Domain.Application\obj\Debug\netcoreapp3.1\Server.Domain.Application.pdb
+D:\ProgrammingHW\Graduate work\Server\Server.Domain.Application\bin\Debug\netcoreapp3.1\Server.Domain.Core.dll
+D:\ProgrammingHW\Graduate work\Server\Server.Domain.Application\bin\Debug\netcoreapp3.1\Server.Domain.Core.pdb
+D:\ProgrammingHW\Graduate work\Server\Server.Domain.Application\obj\Debug\netcoreapp3.1\Server.Domain.Application.csproj.CopyComplete

@@ -1,0 +1,15 @@
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Servies\bin\Debug\netcoreapp3.1\Server.Infrastucture.Servies.deps.json
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Servies\bin\Debug\netcoreapp3.1\Server.Infrastucture.Servies.dll
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Servies\bin\Debug\netcoreapp3.1\Server.Infrastucture.Servies.pdb
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Servies\bin\Debug\netcoreapp3.1\Server.Domain.Application.dll
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Servies\bin\Debug\netcoreapp3.1\Server.Domain.Core.dll
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Servies\bin\Debug\netcoreapp3.1\Server.Domain.Application.pdb
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Servies\bin\Debug\netcoreapp3.1\Server.Domain.Core.pdb
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Servies\obj\Debug\netcoreapp3.1\Server.Infrastucture.Servies.csproj.AssemblyReference.cache
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Servies\obj\Debug\netcoreapp3.1\Server.Infrastucture.Servies.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Servies\obj\Debug\netcoreapp3.1\Server.Infrastucture.Servies.AssemblyInfoInputs.cache
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Servies\obj\Debug\netcoreapp3.1\Server.Infrastucture.Servies.AssemblyInfo.cs
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Servies\obj\Debug\netcoreapp3.1\Server.Infrastucture.Servies.csproj.CoreCompileInputs.cache
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Servies\obj\Debug\netcoreapp3.1\Server.Infrastucture.Servies.csproj.CopyComplete
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Servies\obj\Debug\netcoreapp3.1\Server.Infrastucture.Servies.dll
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Servies\obj\Debug\netcoreapp3.1\Server.Infrastucture.Servies.pdb

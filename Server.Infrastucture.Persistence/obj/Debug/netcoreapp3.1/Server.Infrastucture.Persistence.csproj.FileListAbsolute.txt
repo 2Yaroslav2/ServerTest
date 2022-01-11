@@ -1,0 +1,36 @@
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Persistence\bin\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.deps.json
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Persistence\bin\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.dll
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Persistence\bin\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.pdb
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Persistence\bin\Debug\netcoreapp3.1\Server.Domain.Core.dll
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Persistence\bin\Debug\netcoreapp3.1\Server.Domain.Core.pdb
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Persistence\obj\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.csproj.AssemblyReference.cache
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Persistence\obj\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Persistence\obj\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.AssemblyInfoInputs.cache
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Persistence\obj\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.AssemblyInfo.cs
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Persistence\obj\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.csproj.CoreCompileInputs.cache
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Persistence\obj\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.csproj.CopyComplete
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Persistence\obj\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.dll
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Persistence\obj\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.pdb
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Persistence\bin\Debug\netcoreapp3.1\Server.Domain.Application.dll
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Persistence\bin\Debug\netcoreapp3.1\Server.Domain.Application.pdb
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Persistence\bin\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.runtimeconfig.json
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Persistence\bin\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.runtimeconfig.dev.json
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Persistence\obj\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.genruntimeconfig.cache
+D:\ProgrammingHW\Graduate work\New folder\Server\Server.Infrastucture.Persistence\bin\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.deps.json
+D:\ProgrammingHW\Graduate work\New folder\Server\Server.Infrastucture.Persistence\bin\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.runtimeconfig.json
+D:\ProgrammingHW\Graduate work\New folder\Server\Server.Infrastucture.Persistence\bin\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.runtimeconfig.dev.json
+D:\ProgrammingHW\Graduate work\New folder\Server\Server.Infrastucture.Persistence\bin\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server.Infrastucture.Persistence\bin\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.pdb
+D:\ProgrammingHW\Graduate work\New folder\Server\Server.Infrastucture.Persistence\bin\Debug\netcoreapp3.1\Server.Domain.Application.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server.Infrastucture.Persistence\bin\Debug\netcoreapp3.1\Server.Domain.Core.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server.Infrastucture.Persistence\bin\Debug\netcoreapp3.1\Server.Domain.Application.pdb
+D:\ProgrammingHW\Graduate work\New folder\Server\Server.Infrastucture.Persistence\bin\Debug\netcoreapp3.1\Server.Domain.Core.pdb
+D:\ProgrammingHW\Graduate work\New folder\Server\Server.Infrastucture.Persistence\obj\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.csproj.AssemblyReference.cache
+D:\ProgrammingHW\Graduate work\New folder\Server\Server.Infrastucture.Persistence\obj\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingHW\Graduate work\New folder\Server\Server.Infrastucture.Persistence\obj\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.AssemblyInfoInputs.cache
+D:\ProgrammingHW\Graduate work\New folder\Server\Server.Infrastucture.Persistence\obj\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.AssemblyInfo.cs
+D:\ProgrammingHW\Graduate work\New folder\Server\Server.Infrastucture.Persistence\obj\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.csproj.CoreCompileInputs.cache
+D:\ProgrammingHW\Graduate work\New folder\Server\Server.Infrastucture.Persistence\obj\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.csproj.CopyComplete
+D:\ProgrammingHW\Graduate work\New folder\Server\Server.Infrastucture.Persistence\obj\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server.Infrastucture.Persistence\obj\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.pdb
+D:\ProgrammingHW\Graduate work\New folder\Server\Server.Infrastucture.Persistence\obj\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Business\bin\Debug\netcoreapp3.1\Server.Infrastucture.Business.deps.json
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Business\bin\Debug\netcoreapp3.1\Server.Infrastucture.Business.dll
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Business\bin\Debug\netcoreapp3.1\Server.Infrastucture.Business.pdb
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Business\obj\Debug\netcoreapp3.1\Server.Infrastucture.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Business\obj\Debug\netcoreapp3.1\Server.Infrastucture.Business.AssemblyInfoInputs.cache
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Business\obj\Debug\netcoreapp3.1\Server.Infrastucture.Business.AssemblyInfo.cs
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Business\obj\Debug\netcoreapp3.1\Server.Infrastucture.Business.csproj.CoreCompileInputs.cache
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Business\obj\Debug\netcoreapp3.1\Server.Infrastucture.Business.dll
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Business\obj\Debug\netcoreapp3.1\Server.Infrastucture.Business.pdb
+D:\ProgrammingHW\Graduate work\Server\Server.Infrastucture.Business\obj\Debug\netcoreapp3.1\Server.Infrastucture.Business.csproj.AssemblyReference.cache

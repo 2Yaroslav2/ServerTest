@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09fad569-8485-4537-85db-5756f939a463" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.vs/Server/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Server/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Server/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Server/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Application/CQRS/Commands/UserCommands/CreateUser/CreateUserCommandHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Application/CQRS/Commands/UserCommands/CreateUser/CreateUserCommandHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Application/CQRS/Commands/UserCommands/CreateUser/CreateUserCommandValidator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Application/CQRS/Commands/UserCommands/CreateUser/CreateUserCommandValidator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Application/CQRS/Queries/OrderQueries/GetAllOrder/GetAllOrderQueryResponse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Application/CQRS/Queries/OrderQueries/GetAllOrder/GetAllOrderQueryResponse.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Application/CQRS/Queries/OrderQueries/GetByIdOrder/GetByIdOrderQueryResponse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Application/CQRS/Queries/OrderQueries/GetByIdOrder/GetByIdOrderQueryResponse.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Application/CQRS/Queries/OrderQueries/GetWhereOrder/GetWhereOrderQueryResponse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Application/CQRS/Queries/OrderQueries/GetWhereOrder/GetWhereOrderQueryResponse.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Application/CQRS/Queries/PurchasedGoodsQueries/GetAllPurchasedGoods/GetAllPurchasedGoodsQueryResponse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Application/CQRS/Queries/PurchasedGoodsQueries/GetAllPurchasedGoods/GetAllPurchasedGoodsQueryResponse.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Application/CQRS/Queries/PurchasedGoodsQueries/GetByIdPurchasedGoods/GetByIdPurchasedGoodsQueryResponse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Application/CQRS/Queries/PurchasedGoodsQueries/GetByIdPurchasedGoods/GetByIdPurchasedGoodsQueryResponse.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Application/CQRS/Queries/PurchasedGoodsQueries/GetWherePurchasedGoods/GetWherePurchasedGoodsQueryResponse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Application/CQRS/Queries/PurchasedGoodsQueries/GetWherePurchasedGoods/GetWherePurchasedGoodsQueryResponse.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Application/Dto/OrderDTO/OrderCreateDTO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Application/Dto/OrderDTO/OrderCreateDTO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Application/Dto/OrderDTO/OrderViewDTO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Application/Dto/OrderDTO/OrderViewDTO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Application/Dto/PurchasedGoodsDTO/PurchasedGoodsCreateDTO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Application/Dto/PurchasedGoodsDTO/CloseOrderCreateDTO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Application/Dto/PurchasedGoodsDTO/PurchasedGoodsUpdateDTO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Application/Dto/PurchasedGoodsDTO/PurchasedGoodsUpdateDTO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Application/Dto/PurchasedGoodsDTO/PurchasedGoodsViewDTO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Application/Dto/PurchasedGoodsDTO/PurchasedGoodsViewDTO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Application/Dto/UserDTO/UserViewDTO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Application/Dto/UserDTO/UserViewDTO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Application/Interfaces/Context/IApplicationDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Application/Interfaces/Context/IApplicationDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Application/Interfaces/Repositories/IPurchasedGoodsRepositoryAsync.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Application/Interfaces/Repositories/IPurchasedGoodsRepositoryAsync.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Application/bin/Debug/netcoreapp3.1/Server.Domain.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Application/bin/Debug/netcoreapp3.1/Server.Domain.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Application/bin/Debug/netcoreapp3.1/Server.Domain.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Application/bin/Debug/netcoreapp3.1/Server.Domain.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Application/bin/Debug/netcoreapp3.1/Server.Domain.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Application/bin/Debug/netcoreapp3.1/Server.Domain.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Application/bin/Debug/netcoreapp3.1/Server.Domain.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Application/bin/Debug/netcoreapp3.1/Server.Domain.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Application/obj/Debug/netcoreapp3.1/Server.Domain.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Application/obj/Debug/netcoreapp3.1/Server.Domain.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Application/obj/Debug/netcoreapp3.1/Server.Domain.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Application/obj/Debug/netcoreapp3.1/Server.Domain.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Core/Entities/Goods.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Core/Entities/Goods.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Core/Entities/Order.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Core/Entities/Order.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Core/Entities/PurchasedGoods.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Core/bin/Debug/netcoreapp3.1/Server.Domain.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Core/bin/Debug/netcoreapp3.1/Server.Domain.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Core/bin/Debug/netcoreapp3.1/Server.Domain.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Core/bin/Debug/netcoreapp3.1/Server.Domain.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Core/obj/Debug/netcoreapp3.1/Server.Domain.Core.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Core/obj/Debug/netcoreapp3.1/Server.Domain.Core.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Core/obj/Debug/netcoreapp3.1/Server.Domain.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Core/obj/Debug/netcoreapp3.1/Server.Domain.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Domain.Core/obj/Debug/netcoreapp3.1/Server.Domain.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Domain.Core/obj/Debug/netcoreapp3.1/Server.Domain.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Infrastucture.Persistence/Database/ApplicationDb/ApplicationDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Infrastucture.Persistence/Database/ApplicationDb/ApplicationDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Infrastucture.Persistence/Repository/PurchasedGoodsAsync.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Infrastucture.Persistence/Repository/PurchasedGoodsAsync.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Infrastucture.Persistence/Repository/UserRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Infrastucture.Persistence/Repository/UserRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Infrastucture.Persistence/bin/Debug/netcoreapp3.1/Server.Domain.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Infrastucture.Persistence/bin/Debug/netcoreapp3.1/Server.Domain.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Infrastucture.Persistence/bin/Debug/netcoreapp3.1/Server.Domain.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Infrastucture.Persistence/bin/Debug/netcoreapp3.1/Server.Domain.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Infrastucture.Persistence/bin/Debug/netcoreapp3.1/Server.Domain.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Infrastucture.Persistence/bin/Debug/netcoreapp3.1/Server.Domain.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Infrastucture.Persistence/bin/Debug/netcoreapp3.1/Server.Domain.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Infrastucture.Persistence/bin/Debug/netcoreapp3.1/Server.Domain.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Infrastucture.Persistence/bin/Debug/netcoreapp3.1/Server.Infrastucture.Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Infrastucture.Persistence/bin/Debug/netcoreapp3.1/Server.Infrastucture.Persistence.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Infrastucture.Persistence/bin/Debug/netcoreapp3.1/Server.Infrastucture.Persistence.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Infrastucture.Persistence/bin/Debug/netcoreapp3.1/Server.Infrastucture.Persistence.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Infrastucture.Persistence/obj/Debug/netcoreapp3.1/Server.Infrastucture.Persistence.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Infrastucture.Persistence/obj/Debug/netcoreapp3.1/Server.Infrastucture.Persistence.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Infrastucture.Persistence/obj/Debug/netcoreapp3.1/Server.Infrastucture.Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Infrastucture.Persistence/obj/Debug/netcoreapp3.1/Server.Infrastucture.Persistence.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Infrastucture.Persistence/obj/Debug/netcoreapp3.1/Server.Infrastucture.Persistence.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Infrastucture.Persistence/obj/Debug/netcoreapp3.1/Server.Infrastucture.Persistence.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Infrastucture.Servies/AutoMapper/MapProfile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Infrastucture.Servies/AutoMapper/MapProfile.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Infrastucture.Servies/Servies/PurchasedGoodsServiceAsync.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Infrastucture.Servies/Servies/PurchasedGoodsServiceAsync.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Infrastucture.Servies/bin/Debug/netcoreapp3.1/Server.Domain.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Infrastucture.Servies/bin/Debug/netcoreapp3.1/Server.Domain.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Infrastucture.Servies/bin/Debug/netcoreapp3.1/Server.Domain.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Infrastucture.Servies/bin/Debug/netcoreapp3.1/Server.Domain.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Infrastucture.Servies/bin/Debug/netcoreapp3.1/Server.Domain.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Infrastucture.Servies/bin/Debug/netcoreapp3.1/Server.Domain.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Infrastucture.Servies/bin/Debug/netcoreapp3.1/Server.Domain.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Infrastucture.Servies/bin/Debug/netcoreapp3.1/Server.Domain.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Infrastucture.Servies/bin/Debug/netcoreapp3.1/Server.Infrastucture.Servies.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Infrastucture.Servies/bin/Debug/netcoreapp3.1/Server.Infrastucture.Servies.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Infrastucture.Servies/bin/Debug/netcoreapp3.1/Server.Infrastucture.Servies.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Infrastucture.Servies/bin/Debug/netcoreapp3.1/Server.Infrastucture.Servies.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Infrastucture.Servies/obj/Debug/netcoreapp3.1/Server.Infrastucture.Servies.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Infrastucture.Servies/obj/Debug/netcoreapp3.1/Server.Infrastucture.Servies.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Infrastucture.Servies/obj/Debug/netcoreapp3.1/Server.Infrastucture.Servies.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Infrastucture.Servies/obj/Debug/netcoreapp3.1/Server.Infrastucture.Servies.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.Infrastucture.Servies/obj/Debug/netcoreapp3.1/Server.Infrastucture.Servies.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Server.Infrastucture.Servies/obj/Debug/netcoreapp3.1/Server.Infrastucture.Servies.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/Controllers/AuthController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server/Controllers/AuthController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/Controllers/RegistrationController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server/Controllers/RegistrationController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Server.Domain.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Server.Domain.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Server.Domain.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Server.Domain.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Server.Domain.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Server.Domain.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Server.Domain.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Server.Domain.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Server.Infrastucture.Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Server.Infrastucture.Persistence.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Server.Infrastucture.Persistence.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Server.Infrastucture.Persistence.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Server.Infrastucture.Servies.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Server.Infrastucture.Servies.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Server.Infrastucture.Servies.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Server.Infrastucture.Servies.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Server.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Server.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Server.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Server.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Server.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Server.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Server.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Server.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Server.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Server.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Server.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Server.pdb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20p49gI4pQttuf7dsQiQe37QuRl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09fad569-8485-4537-85db-5756f939a463" name="Default Changelist" comment="" />
+      <created>1636728044545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636728044545</updated>
+      <workItem from="1636728045708" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

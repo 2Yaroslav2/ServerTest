@@ -1,0 +1,203 @@
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Server.exe
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Server.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Server.pdb
+D:\ProgrammingHW\Graduate work\Server\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingHW\Graduate work\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\ProgrammingHW\Graduate work\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\ProgrammingHW\Graduate work\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+D:\ProgrammingHW\Graduate work\Server\Server\obj\Debug\netcoreapp3.1\Server.MvcApplicationPartsAssemblyInfo.cache
+D:\ProgrammingHW\Graduate work\Server\Server\obj\Debug\netcoreapp3.1\staticwebassets\Server.StaticWebAssets.Manifest.cache
+D:\ProgrammingHW\Graduate work\Server\Server\obj\Debug\netcoreapp3.1\staticwebassets\Server.StaticWebAssets.xml
+D:\ProgrammingHW\Graduate work\Server\Server\obj\Debug\netcoreapp3.1\scopedcss\bundle\Server.styles.css
+D:\ProgrammingHW\Graduate work\Server\Server\obj\Debug\netcoreapp3.1\Server.RazorTargetAssemblyInfo.cache
+D:\ProgrammingHW\Graduate work\Server\Server\obj\Debug\netcoreapp3.1\Server.dll
+D:\ProgrammingHW\Graduate work\Server\Server\obj\Debug\netcoreapp3.1\Server.pdb
+D:\ProgrammingHW\Graduate work\Server\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Server.Domain.Core.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Server.Domain.Core.pdb
+D:\ProgrammingHW\Graduate work\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+D:\ProgrammingHW\Graduate work\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.CopyComplete
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Server.Views.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.pdb
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Server.Domain.Application.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Server.Domain.Application.pdb
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Server.Infrastucture.Servies.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Server.Infrastucture.Servies.pdb
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Server.Infrastucture.Business.dll
+D:\ProgrammingHW\Graduate work\Server\Server\bin\Debug\netcoreapp3.1\Server.Infrastucture.Business.pdb
+D:\ProgrammingHW\Graduate work\Server\Server\obj\Debug\netcoreapp3.1\Server.MvcApplicationPartsAssemblyInfo.cs
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Server.exe
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Server.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Server.pdb
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Server.Views.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Server.Domain.Application.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Server.Domain.Core.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Server.Infrastucture.Business.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Server.Infrastucture.Servies.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Server.Domain.Application.pdb
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Server.Infrastucture.Business.pdb
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Server.Infrastucture.Persistence.pdb
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Server.Infrastucture.Servies.pdb
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\bin\Debug\netcoreapp3.1\Server.Domain.Core.pdb
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\obj\Debug\netcoreapp3.1\Server.MvcApplicationPartsAssemblyInfo.cs
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\obj\Debug\netcoreapp3.1\Server.MvcApplicationPartsAssemblyInfo.cache
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\obj\Debug\netcoreapp3.1\staticwebassets\Server.StaticWebAssets.Manifest.cache
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\obj\Debug\netcoreapp3.1\staticwebassets\Server.StaticWebAssets.xml
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\obj\Debug\netcoreapp3.1\scopedcss\bundle\Server.styles.css
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\obj\Debug\netcoreapp3.1\Server.RazorTargetAssemblyInfo.cache
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.CopyComplete
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\obj\Debug\netcoreapp3.1\Server.dll
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\obj\Debug\netcoreapp3.1\Server.pdb
+D:\ProgrammingHW\Graduate work\New folder\Server\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
