@@ -19,7 +19,10 @@ namespace Server.Controllers
 
         private IMediator mediator;
 
-        public AuthController(UserManager<User> userManager, SignInManager<User> signInManager, IMediator mediator, RoleManager<IdentityRole> roleManager)
+        public AuthController(UserManager<User> userManager, 
+            SignInManager<User> signInManager, 
+            IMediator mediator, 
+            RoleManager<IdentityRole> roleManager)
         {
             this.userManager = userManager;
             this.signInManager = signInManager;

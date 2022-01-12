@@ -23,7 +23,9 @@ namespace Server.Infrastucture.Servies.Servies
 
         public async Task<GoodsViewDTO> CreateAsync(GoodsCreateDTO value)
         {
+            ;
             var res = await unitOfWork.GoodsRepositoryAsync.CreateAsync(mapper.Map<Goods>(value));
+            ;
             return mapper.Map<GoodsViewDTO>(res);
         }
 

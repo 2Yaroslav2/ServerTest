@@ -28,7 +28,7 @@ namespace Server.Infrastucture.Persistence.Repository.Common
         {
             ;
             context.Entry(value).State = EntityState.Added;
-            var res = await context.SaveChangesAsync();
+            await context.SaveChangesAsync();
             return value;
         }
 

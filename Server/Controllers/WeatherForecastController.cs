@@ -1,7 +1,10 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Server.Domain.Application.Interfaces.Servies;
+using Server.Domain.Core.Entities;
 using Server.Infrastucture.Persistence;
+using Server.Infrastucture.Persistence.Database.UserDb;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,6 +16,8 @@ namespace Server.Controllers
     public class WeatherForecastController : ControllerBase
     {
         IServiceManagerAsync serviceManagerAsync;
+        private UserManager<User> userManager;
+        private RoleManager<IdentityRole> roleManager;
 
 
         private static readonly string[] Summaries = new[]
@@ -24,19 +29,25 @@ namespace Server.Controllers
 
 
 
-        public WeatherForecastController(ILogger<WeatherForecastController> logger, IServiceManagerAsync serviceManagerAsync)
+        public WeatherForecastController(ILogger<WeatherForecastController> logger, 
+            IServiceManagerAsync serviceManagerAsync, 
+            UserManager<User> userManager, 
+            RoleManager<IdentityRole> roleManager)
         {
             ;
             _logger = logger;
 
-
+            this.userManager = userManager;
+            this.roleManager = roleManager;
 
 
             this.serviceManagerAsync = serviceManagerAsync;
 
+            System.Threading.Tasks.Task task = RoleInitializer.InitializeAsync(userManager, roleManager);
+
+
             #region Language
 
-           
             this.serviceManagerAsync.LanguageServiceAsync.CreateAsync(new Domain.Application.Dto.LanguageDTO.LanguageCreateDTO
             {
                 Name = "ENG"
@@ -421,15 +432,8 @@ namespace Server.Controllers
 
             #endregion
 
+
         }
-
-
-        //public async Task setRole()
-        //{
-        //    var res = await roleManager.CreateAsync(new IdentityRole("user"));
-        //    var res1 = await  roleManager.CreateAsync(new IdentityRole("admin"));
-        //    ;
-        //}
 
         [HttpGet]
         public IEnumerable<WeatherForecast> Get()
